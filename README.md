@@ -3,7 +3,7 @@
 > I don’t maintain side projects.
 > I maintain unfinished companies.
 
-Founder of **PS TECH GLOBAL** — currently turning domains into platforms and platforms into leverage.
+Founder of **PS TECH GLOBAL** - currently turning domains into platforms and platforms into leverage.
 
 Some developers push commits.
 I push things live and let users decide if it was a good idea.
@@ -32,11 +32,11 @@ Later they connect into one ecosystem.
 
 ---
 
-### 🧠 Relite.in — Real Estate Intelligence Platform
+### 🧠 Relite.in - Real Estate Intelligence Platform
 
 Property buying today runs on emotions, persuasion and “limited time offer”.
 
-Relite is being built to add logic — using credibility signals, deal validation and trust infrastructure.
+Relite is being built to add logic - using credibility signals, deal validation and trust infrastructure.
 
 **Goal:** Decisions based on data instead of pressure.
 
@@ -48,7 +48,7 @@ Planned direction:
 
 ---
 
-### 🏢 PS TECH GLOBAL — The Infrastructure Company
+### 🏢 PS TECH GLOBAL - The Infrastructure Company
 
 The backbone behind everything.
 
@@ -65,7 +65,7 @@ Every other platform depends on this.
 
 ---
 
-### 🎁 Coolcards.in — Digital Gifting Platform
+### 🎁 Coolcards.in - Digital Gifting Platform
 
 Messages are temporary.
 Memories shouldn’t be.
@@ -76,7 +76,7 @@ Coolcards turns digital greetings into designed, shareable experiences instead o
 
 ---
 
-### 💬 Wasupp Network — Communication Utility Layer
+### 💬 Wasupp Network - Communication Utility Layer
 
 (Wasupp.in & Wasupp.info)
 
@@ -89,7 +89,7 @@ Focused on lightweight daily utilities around messaging and sharing.
 
 ---
 
-### 👕 BindasLook Network — Commerce Infrastructure Experiment
+### 👕 BindasLook Network - Commerce Infrastructure Experiment
 
 * bindaslook.in
 * bindaslook.com
@@ -118,7 +118,7 @@ Together strategic.
 
 ![Life Framework](assets/framework.png)
 
-> Worth of your life = (Risks Taken − Failures You Didn't Learn From) ÷ (Doubts + Regrets) × Health
+> Worth of your life = (Risks Taken - Failures You Didn't Learn From) ÷ (Doubts + Regrets) × Health
 
 This is less philosophy and more a filter for decisions.
 
