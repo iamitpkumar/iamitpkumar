@@ -1,199 +1,79 @@
 ![Life Framework](assets/framework.png)
 
-![](https://komarev.com/ghpvc/?username=iamitpkumar)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Founder+of+PS+TECH+GLOBAL;Building+Digital+Infrastructure;Turning+Domains+into+Platforms" alt="Typing SVG" />
+</div>
 
-# 👋 Hi, I'm Amit P. Kumar
+<div align="center">
+  <a href="https://www.linkedin.com/in/iamitpkumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/iamitpkumar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+   <a href="https://www.pstechglobal.com">
+    <img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
+  </a>
+</div>
 
-> I don’t maintain side projects.
-> I maintain unfinished companies.
-
-Founder of **PS TECH GLOBAL** - currently turning domains into platforms and platforms into leverage.
-
-Some developers push commits.
-I push things live and let users decide if it was a good idea.
-
----
-
-## 🧠 What I Actually Do
-
-I operate where **technology meets execution**:
-
-* Product Engineering
-* Growth Systems
-* Automation Infrastructure
-* AI-Driven Tools
-* Market Validation
-
-In short:
-**I don’t build apps. I build outcomes.**
+<div align="center">
+  <h3>I don’t maintain side projects. I maintain unfinished companies.</h3>
+</div>
 
 ---
 
 ## 🏗️ Active Platforms & Networks
 
-Each domain exists for a purpose.
-Later they connect into one ecosystem.
+| Project | Description | Role |
+| :--- | :--- | :--- |
+| <a href="https://www.pstechglobal.com">**PS TECH GLOBAL**</a> | **The Infrastructure Company.**<br>Builds web systems, marketing engines, automation pipelines. | *Founder* |
+| <a href="https://www.relite.in">**Relite.in**</a> | **Real Estate Intelligence.**<br>Decisions based on data, credibility scores, and trust infrastructure. | *Creator* |
+| <a href="https://www.coolcards.in">**Coolcards.in**</a> | **Digital Gifting.**<br>Turning digital greetings into designed, shareable experiences. | *Creator* |
+| <a href="https://www.wasupp.in">**Wasupp Network**</a> | **Communication Utility.**<br>Lightweight daily utilities around messaging and sharing. | *Creator* |
+| <a href="https://www.bindaslook.in">**BindasLook**</a> | **Commerce Infrastructure.**<br>E-commerce as a framework, not a single store. | *Creator* |
 
 ---
 
-### 🏢 PS TECH GLOBAL - The Infrastructure Company
+## 📊 Digital Impact
 
-The backbone behind everything.
-
-Builds:
-
-* web systems
-* marketing engines
-* automation pipelines
-* growth frameworks
-
-Every other platform depends on this.
-
-**Goal:** A multi-industry technology holding company.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamitpkumar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamitpkumar&theme=radical&hide_border=true&bg_color=0d1117&currStreakNum=FFD700&fire=FFD700" alt="Streak Stats" />
+</div>
 
 ---
 
-### 🧠 Relite.in - Real Estate Intelligence Platform
+## 🧭 The Framework
 
-Property buying today runs on emotions, persuasion and “limited time offer”.
+> "Worth of your life = (Risks Taken - Failures You Didn't Learn From) ÷ (Doubts + Regrets) × Health"
 
-Relite is being built to add logic - using credibility signals, deal validation and trust infrastructure.
-
-**Goal:** Decisions based on data instead of pressure.
-
-Planned direction:
-
-* Deal reliability scoring
-* Advisor credibility index
-* Investment dashboards
-
----
-
-### 🎁 Coolcards.in - Digital Gifting Platform
-
-Messages are temporary.
-Memories shouldn’t be.
-
-Coolcards turns digital greetings into designed, shareable experiences instead of forwarded templates.
-
-**Goal:** Make digital wishes feel intentional.
-
----
-
-### 💬 Wasupp Network - Communication Utility Layer
-
-(Wasupp.in & Wasupp.info)
-
-Not a social network.
-More like tools people use before opening social networks.
-
-Focused on lightweight daily utilities around messaging and sharing.
-
-**Goal:** Become part of everyday communication flow.
-
----
-
-### 👕 BindasLook Network - Commerce Infrastructure Experiment
-
-* bindaslook.in
-* bindaslook.com
-* bindaslook.online
-
-Instead of launching one brand, this builds a system that can launch many brands repeatedly.
-
-**Goal:** E-commerce as a framework, not a single store.
-
----
-
-## 🧩 How Everything Connects
-
-PS TECH GLOBAL → Infrastructure
-
-Relite → Trust Data Layer
-
-Wasupp → Communication Layer
-
-Coolcards → Engagement Layer
-
-BindasLook → Commerce Layer
-
-
-Individually useful.
-Together strategic.
-
----
-
-## 🧭 The Framework I Operate On
-
-> Worth of your life = (Risks Taken - Failures You Didn't Learn From) ÷ (Doubts + Regrets) × Health
-
-This is less philosophy and more a filter for decisions.
-
----
-
-### My Interpretation
-
-**Take risks early**
-Waiting for certainty is just delayed learning.
-
-**Learn from failure once**
-Repeat mistakes are unpaid subscriptions.
-
-**Reduce doubt by acting**
-Clarity is a result, not a prerequisite.
-
-**Protect health**
-You can scale companies only if the operator scales too.
-
----
-
-### Why So Many Projects?
-
-Because iteration speed beats intelligence.
-
-Some ideas become companies.
-Some become lessons.
-None become regrets.
-
-This GitHub is not a portfolio.
-It’s a build log.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🚀<br><b>Take risks early</b><br>Waiting is delayed learning.</td>
+      <td align="center">🧠<br><b>Learn from failure</b><br>Mistakes are tuition.</td>
+      <td align="center">⚡<br><b>Act to reduce doubt</b><br>Clarity follows action.</td>
+      <td align="center">❤️<br><b>Protect health</b><br>Scale yourself to scale companies.</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🧠 Long-Term Vision
 
-Building 5 major companies under PS TECH GLOBAL:
+Building **5 major companies** under PS TECH GLOBAL:
 
-| Industry                | Objective                           |
-| ----------------------- | ----------------------------------- |
-| Artificial Intelligence | Practical real-world AI products    |
-| E-Commerce              | Scalable niche brand infrastructure |
-| Real Estate             | Trust & decision intelligence       |
-| Manufacturing           | Physical product production         |
-| Fitness & Healthcare    | Preventive health technology        |
+- **Artificial Intelligence**: Real-world AI products.
+- **E-Commerce**: Scalable brand infrastructure.
+- **Real Estate**: Trust & decision intelligence.
+- **Manufacturing**: Physical product production.
+- **Fitness & Healthcare**: Preventive health technology.
 
-Not launching startups.
-
-Designing an ecosystem.
+*"Not launching startups. Designing an ecosystem."*
 
 ---
 
-## ⚙️ Work Philosophy
-
-* Ship > Perfect
-* Systems > Talent
-* Distribution > Features
-* Execution > Ideas
-
----
-
-## 🤝 If You’re Here
-
-You probably like builders more than talkers.
-
-Then we’ll get along.
-
----
-
-⭐ Watch the repositories.
-They’ll start connecting over time.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamitpkumar&style=flat-square&color=blue" alt="Profile Views" />
+</div>
