@@ -1,3 +1,7 @@
+![Life Framework](assets/framework.png)
+
+![](https://komarev.com/ghpvc/?username=iamitpkumar)
+
 # 👋 Hi, I'm Amit P. Kumar
 
 > I don’t maintain side projects.
@@ -120,8 +124,6 @@ Together strategic.
 ---
 
 ## 🧭 The Framework I Operate On
-
-![Life Framework](assets/framework.png)
 
 > Worth of your life = (Risks Taken - Failures You Didn't Learn From) ÷ (Doubts + Regrets) × Health
 
