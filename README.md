@@ -1,7 +1,7 @@
 ![Life Framework](assets/framework.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Founder+of+PS+TECH+GLOBAL;Building+Digital+Infrastructure;Turning+Domains+into+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Founder+of+PS+TECH+GLOBAL;Building+Digital+Infrastructure;Turning+Domains+into+Platforms" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h3>I don’t maintain side projects. I maintain unfinished companies.</h3>
+  <h3 style="font-family: Poppins;">I don’t maintain side projects. I maintain unfinished companies.</h3>
 </div>
 
 ---
@@ -27,10 +27,13 @@
 | Project | Description | Role |
 | :--- | :--- | :--- |
 | <a href="https://www.pstechglobal.com">**PS TECH GLOBAL**</a> | **The Infrastructure Company.**<br>Builds web systems, marketing engines, automation pipelines. | *Founder* |
-| <a href="https://www.relite.in">**Relite.in**</a> | **Real Estate Intelligence.**<br>Decisions based on data, credibility scores, and trust infrastructure. | *Creator* |
-| <a href="https://www.coolcards.in">**Coolcards.in**</a> | **Digital Gifting.**<br>Turning digital greetings into designed, shareable experiences. | *Creator* |
-| <a href="https://www.wasupp.in">**Wasupp Network**</a> | **Communication Utility.**<br>Lightweight daily utilities around messaging and sharing. | *Creator* |
-| <a href="https://www.bindaslook.in">**BindasLook**</a> | **Commerce Infrastructure.**<br>E-commerce as a framework, not a single store. | *Creator* |
+| <a href="https://www.relite.in">**Relite.in**</a> | **Real Estate Intelligence.**<br>Decisions based on data, credibility scores, and trust infrastructure. | *Founder* |
+| <a href="https://www.coolcards.in">**Coolcards.in**</a> | **Digital Gifting.**<br>Turning digital greetings into designed, shareable experiences. | *Founder* |
+| <a href="https://www.wasupp.in">**Wasupp Network**</a> | **Communication Utility.**<br>Lightweight daily utilities around messaging and sharing. | *Founder* |
+| <a href="https://www.wasupp.info">**Wasupp.info**</a> | **Tech & AI News.**<br>Stay updated with the latest trends in technology and artificial intelligence. | *Founder* |
+| <a href="https://www.bindaslook.in">**BindasLook**</a> | **Commerce Infrastructure.**<br>E-commerce as a framework, not a single store. | *Founder* |
+| <a href="https://www.bindaslook.com">**Bindaslook.com**</a> | **Futuristic E-commerce.**<br>Global platform to test experimental shopping interfaces. | *Founder* |
+| <a href="https://www.bindaslook.online">**Bindaslook.online**</a> | **E-commerce Trends.**<br>Insights and news for the e-commerce industry. | *Founder* |
 
 ---
 
