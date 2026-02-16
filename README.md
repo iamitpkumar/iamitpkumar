@@ -32,22 +32,6 @@ Later they connect into one ecosystem.
 
 ---
 
-### 🧠 Relite.in - Real Estate Intelligence Platform
-
-Property buying today runs on emotions, persuasion and “limited time offer”.
-
-Relite is being built to add logic - using credibility signals, deal validation and trust infrastructure.
-
-**Goal:** Decisions based on data instead of pressure.
-
-Planned direction:
-
-* Deal reliability scoring
-* Advisor credibility index
-* Investment dashboards
-
----
-
 ### 🏢 PS TECH GLOBAL - The Infrastructure Company
 
 The backbone behind everything.
@@ -62,6 +46,22 @@ Builds:
 Every other platform depends on this.
 
 **Goal:** A multi-industry technology holding company.
+
+---
+
+### 🧠 Relite.in - Real Estate Intelligence Platform
+
+Property buying today runs on emotions, persuasion and “limited time offer”.
+
+Relite is being built to add logic - using credibility signals, deal validation and trust infrastructure.
+
+**Goal:** Decisions based on data instead of pressure.
+
+Planned direction:
+
+* Deal reliability scoring
+* Advisor credibility index
+* Investment dashboards
 
 ---
 
