@@ -104,10 +104,15 @@ Instead of launching one brand, this builds a system that can launch many brands
 ## 🧩 How Everything Connects
 
 PS TECH GLOBAL → Infrastructure
+
 Relite → Trust Data Layer
+
 Wasupp → Communication Layer
+
 Coolcards → Engagement Layer
+
 BindasLook → Commerce Layer
+
 
 Individually useful.
 Together strategic.
